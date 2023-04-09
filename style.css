@@ -1,0 +1,178 @@
+/* reset */
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {}
+
+/* header -ის დასაწყისი */
+
+.image-1 {
+    width: 100%;
+    height: 240px;
+}
+
+.header-h1 {
+    font-size: 55px;
+    font-weight: 900;
+    font-family: 'Big Shoulders Display';
+    margin-top: 32px;
+    color: #151515;
+    line-height: 55px;
+    width: 75%;
+}
+
+.header-p {
+    font-size: 18px;
+    font-family: 'outfit';
+    line-height: 28px;
+    color: #444444;
+    margin-top: 32px;
+}
+
+.header-box {
+    display: flex;
+    margin-top: 32px;
+}
+
+.header-box-1 {
+    background-color: #151515;
+    color: white;
+    width: 204px;
+    height: 72px;
+    font-family: 'Big Shoulders Display';
+    font-size: 20px;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    letter-spacing: 2px;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.header-box-2 {
+    background-color: #d5966c;
+    width: 56px;
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.header-main-box {
+    padding: 0px 16px;
+}
+
+/* header -ის დასასრული */
+
+/* main -ის დასაწყისი */
+
+.cards {
+    padding: 0px 16px;
+}
+
+.cards-image-1 {
+    height: 320px;
+    width: 343px;
+    margin-top: 120px;
+}
+
+.cards-h2 {
+    font-family: 'Big Shoulders Display';
+    font-size: 50px;
+    line-height: 45px;
+    font-weight: 900;
+    color: #151515;
+    margin-top: 25px;
+}
+
+.main-p-1 {
+    font-family: 'Outfit';
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    color: #444444;
+    margin-top: 21px;
+}
+
+.cards-image-2 {
+    width: 343px;
+    height: 480px;
+    margin-top: 32px;
+}
+
+.cards-image-3 {
+    width: 343px;
+    height: 200px;
+    margin-top: 16px;
+}
+
+.black-box {
+    background-color: #151515;
+    width: 343px;
+    height: 293px;
+    margin-top: 16px;
+    padding: 48px 24px;
+}
+
+.black-box-h2 {
+    font-family: 'Big Shoulders Display';
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 45px;
+    color: white;
+}
+
+.black-box-p {
+    margin-top: 24px;
+    color: white;
+    font-family: 'Outfit';
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+}
+
+footer {
+    width: 100%;
+    height: 336px;
+    background-color: #151515;
+    padding: 48px 32px;
+    margin-top: 120px;
+}
+
+h3 {
+    color: white;
+    font-family: 'Big Shoulders Display';
+    font-size: 25px;
+    width: 110px;
+    line-height: 23px;
+}
+
+.footer-p {
+    font-family: 'Outfit';
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    margin-top: 38px;
+    color: white;
+}
+
+.icon-box {
+    margin-top: 38px;
+}
+
+.instagram {
+    margin-left: 20px;
+}
+
+.twitter {
+    margin-left: 20px;
+}
+
+
