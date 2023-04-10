@@ -1,0 +1,127 @@
+/* reset */
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {}
+
+header {
+    height: 574px;
+
+}
+
+.button-box {
+    display: flex;
+    position: absolute;
+    z-index: 1;
+}
+
+.button-box-1 {
+    background-color: #d5966c;
+    width: 56px;
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.button-box-2 {
+    background-color: #151515;
+    color: white;
+    width: 208px;
+    height: 72px;
+    font-family: 'Big Shoulders Display';
+    font-size: 20px;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    letter-spacing: 3px;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.Maps {
+    width: 100%;
+    height: 574px;
+    position: relative;
+}
+
+main {
+    padding: 48px 16px 0px 16px;
+    background-color: #151515;
+    width: 100%;
+    height: 493px;
+}
+
+.main-h2-2 {
+    font-family: 'Big Shoulders Display';
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 45px;
+    color: white;
+}
+
+.address-1 {
+    font-family: 'Big Shoulders Display';
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 32px;
+    color: #d5966c;
+    margin-top: 48px;
+}
+
+.address-2 {
+    font-family: 'Outfit';
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    color: white;
+    margin-top: 20px;
+}
+
+.main-p-2 {
+    margin-top: 20px;
+    font-family: 'Outfit';
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    color: white;
+}
+
+footer {
+    background-color: #D5966C;
+    width: 100%;
+    height: 336px;
+    padding: 48px 32px;
+}
+
+.footer-h3 {
+    font-family: 'Big Shoulders Display';
+    color: #151515;
+}
+
+.footer-p-2 {
+    color: #151515;
+    font-family: 'Outfit';
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    margin-top: 38px;
+}
+
+.black-icon-box {
+    margin-top: 38px;
+}
+
+.black-twitter {
+    margin-left: 20px;
+}
+
+.black-instagram {
+    margin-left: 20px;
+}
